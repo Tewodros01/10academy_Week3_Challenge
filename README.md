@@ -1,8 +1,8 @@
 ## 10 Acadamy  
 
-## WEEK 1 challenge
+## WEEK 3 challenge
 
-## Answer for Task 1, Task 2, Task 3, Task 4
+## Answer for Task 1, Task 2
 
 # To run this app make sure you install
 
